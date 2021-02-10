@@ -1,0 +1,10 @@
+C:\Projetos\EncapsulaTemplate\EncapsulaTemplate\bin\Debug\EncapsulaTemplate.exe.config
+C:\Projetos\EncapsulaTemplate\EncapsulaTemplate\bin\Debug\EncapsulaTemplate.exe
+C:\Projetos\EncapsulaTemplate\EncapsulaTemplate\bin\Debug\EncapsulaTemplate.pdb
+C:\Projetos\EncapsulaTemplate\EncapsulaTemplate\obj\Debug\EncapsulaTemplate.csprojAssemblyReference.cache
+C:\Projetos\EncapsulaTemplate\EncapsulaTemplate\obj\Debug\EncapsulaTemplate.Form1.resources
+C:\Projetos\EncapsulaTemplate\EncapsulaTemplate\obj\Debug\EncapsulaTemplate.Properties.Resources.resources
+C:\Projetos\EncapsulaTemplate\EncapsulaTemplate\obj\Debug\EncapsulaTemplate.csproj.GenerateResource.cache
+C:\Projetos\EncapsulaTemplate\EncapsulaTemplate\obj\Debug\EncapsulaTemplate.csproj.CoreCompileInputs.cache
+C:\Projetos\EncapsulaTemplate\EncapsulaTemplate\obj\Debug\EncapsulaTemplate.exe
+C:\Projetos\EncapsulaTemplate\EncapsulaTemplate\obj\Debug\EncapsulaTemplate.pdb
